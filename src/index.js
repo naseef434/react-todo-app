@@ -8,12 +8,16 @@ import reportWebVitals from './reportWebVitals';
 // import Demo from './Demo';
 // import EventClass from './Eventclas';
 // import ListTest  from './List';
-import TodoApp from './Todo';
+// import TodoApp from './Todo';
+// import LifeCycle from './LifeCyle';
+import AjaxAxoious from './AjaxAxious';
+
+
 // setInterval(() => {
 //   ReactDOM.render(<Counter />,document.getElementById('root'));
 // },1000)
 
-ReactDOM.render(<TodoApp />, document.getElementById("root"))
+ReactDOM.render(<AjaxAxoious />, document.getElementById("root"))
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
